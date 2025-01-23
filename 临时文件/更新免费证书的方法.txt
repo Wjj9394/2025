@@ -1,0 +1,398 @@
+ Found 26 files older than 120 days in C:\ProgramData\win-acme\acme-v02.api.letsencrypt.org\Certificates, enable Cache.DeleteStaleFiles in settings.json to automatically delete these on each run.
+
+ A simple Windows ACMEv2 client (WACS)
+ Software version 2.2.9.1701 (release, pluggable, standalone, 64-bit)
+ Connecting to https://acme-v02.api.letsencrypt.org/...
+ Connection OK!
+ Scheduled task looks healthy
+ Please report issues at https://github.com/win-acme/win-acme
+
+ N: Create certificate (default settings)
+ M: Create certificate (full options)
+ R: Run renewals (13 currently due)
+ A: Manage renewals (13 total, 3 in error)
+ O: More options...
+ Q: Quit
+
+ Please choose from the menu: a
+
+ Welcome to the renewal manager. Actions selected in the menu below will be
+ applied to the following list of renewals. You may filter the list to target
+ your action at a more specific set of renewals, or sort it to make it easier
+ to find what you're looking for.
+
+ 1: [IIS] APP | app.zhuanyegou.com - 2 renewals, due now
+ 2: [IIS] APP, (any host) - 1 renewal, due now
+ 3: [IIS] App更新, (any host) - 1 renewal, due now
+ 4: [IIS] UAT_IM, (any host) - 6 renewals, due now
+ 5: [IIS] uat_trains | trains.zhuanyegou.com - 1 renewal, due now
+ 6: [IIS] uat_trains, (any host) - 1 renewal, due now
+ 7: [IIS] UShop_jewelry | daogoujingling.com - 1 renewal, due now
+ 8: [IIS] UShop_jewelry | www.daogoujingling.com - 1 renewal, due now
+ 9: [IIS] UShop_Pay | pay.zhuanyegou.com - 1 renewal, due now
+ 10: [IIS] 导购精灵后台 | tool.daogoujingling.com - 1 renewal, due now
+ 11: [Manual] ssl.iis.unionalltech.com - 7 renewals, due now, 1 error
+ 12: test - 7 renewals, due now, 1 error
+ 13: test - 7 renewals, due now, 1 error
+
+ Currently selected 13 of 13 renewals
+
+ E: Edit renewal
+ F: Apply filter
+ O: Sort renewals
+ D: Show details for *all* renewals
+ L: Show command line for *all* renewals
+ R: Run *all* renewals
+ S: Run *all* renewals (force)
+ T: Run *all* renewals (force, no cache)
+ U: Analyze duplicates for *all* renewals
+ C: Cancel *all* renewals
+ V: Revoke certificate(s) for *all* renewals
+ Q: Back
+
+ Choose an action or type numbers to select renewals: d
+
+-              -----------------------------------------------------------------
+Renewal 1/13   -----------------------------------------------------------------
+-              -----------------------------------------------------------------
+
+Id:                  mfwkitlrXUCBXurJH2HClA
+File:                mfwkitlrXUCBXurJH2HClA.renewal.json
+Account:             Default account
+Auto-FriendlyName:   [IIS] APP | app.zhuanyegou.com
+.pfx password:       Zj0PxXwrqqMIeibue2kePY2QHBgtw4pe+itvwlYwrCw=
+Expires:             Unknown
+Renewal due:         2024/8/6
+Renewed:             2 times
+Command:             wacs.exe --source iis --host-pattern app.zhuanyegou.com
+                     --siteid 27 --installation iis
+
+Plugins        -----------------------------------------------------------------
+
+Source:              IIS
+    - Description:   Read bindings from IIS
+Validation:          SelfHosting
+    - Description:   Serve verification files from memory
+Order:               Single
+    - Description:   Single certificate
+Csr:                 RSA
+    - Description:   RSA key
+Store:               CertificateStore
+    - Description:   Windows Certificate Store (Local Computer)
+Installation:        IIS
+    - Description:   Create or update bindings in IIS
+
+Orders         -----------------------------------------------------------------
+
+Order 1/1:           main
+  - Renewed:         2 times
+  - Last thumbprint: 922EEE7BEE0D604C0C3032F6F8D49D2639B2EAEE
+  - Last date:       2024/6/12
+  - Next due:        2024/8/6
+
+History        -----------------------------------------------------------------
+
+History 2/2    -----------------------------------------------------------------
+  - Date:            2024/6/12
+  - Order:           main
+    - Success:       true
+    - Thumbprint:    922EEE7BEE0D604C0C3032F6F8D49D2639B2EAEE
+
+History 1/2    -----------------------------------------------------------------
+  - Date:            2024/6/12
+  - Order:           main
+    - Success:       true
+    - Thumbprint:    922EEE7BEE0D604C0C3032F6F8D49D2639B2EAEE
+
+ Press <Enter> to continue or <Esc> to abort
+
+-              -----------------------------------------------------------------
+Renewal 2/13   -----------------------------------------------------------------
+-              -----------------------------------------------------------------
+
+Id:                  Sh4vWpbjZUOivMa2EUh74Q
+File:                Sh4vWpbjZUOivMa2EUh74Q.renewal.json
+Account:             Default account
+Auto-FriendlyName:   [IIS] APP, (any host)
+.pfx password:       uZcMTnI4eaTYTmhLjOSacgwSRHShtr4AI/0bqmq2EJE=
+Expires:             Unknown
+Renewal due:         2024/8/6
+Renewed:             1 times
+Command:             wacs.exe --source iis --siteid 27 --installation iis
+
+Plugins        -----------------------------------------------------------------
+
+Source:              IIS
+    - Description:   Read bindings from IIS
+Validation:          SelfHosting
+    - Description:   Serve verification files from memory
+Order:               Single
+    - Description:   Single certificate
+Csr:                 RSA
+    - Description:   RSA key
+Store:               CertificateStore
+    - Description:   Windows Certificate Store (Local Computer)
+Installation:        IIS
+    - Description:   Create or update bindings in IIS
+
+Orders         -----------------------------------------------------------------
+
+Order 1/1:           main
+  - Renewed:         1 times
+  - Last thumbprint: 922EEE7BEE0D604C0C3032F6F8D49D2639B2EAEE
+  - Last date:       2024/6/12
+  - Next due:        2024/8/6
+
+History        -----------------------------------------------------------------
+
+History 1/1    -----------------------------------------------------------------
+  - Date:            2024/6/12
+  - Order:           main
+    - Success:       true
+    - Thumbprint:    922EEE7BEE0D604C0C3032F6F8D49D2639B2EAEE
+
+ Press <Enter> to continue or <Esc> to abort
+
+-              -----------------------------------------------------------------
+Renewal 3/13   -----------------------------------------------------------------
+-              -----------------------------------------------------------------
+
+Id:                  u8tIxWbK8Eaios0zmUafMg
+File:                u8tIxWbK8Eaios0zmUafMg.renewal.json
+Account:             Default account
+Auto-FriendlyName:   [IIS] App更新, (any host)
+.pfx password:       cpOXAiCVOzfnVD6FV9NqUS1AiHiv4lAfQbxRxoFn4xQ=
+Expires:             Unknown
+Renewal due:         2024/8/6
+Renewed:             1 times
+Command:             wacs.exe --source iis --siteid 29 --installation iis
+
+Plugins        -----------------------------------------------------------------
+
+Source:              IIS
+    - Description:   Read bindings from IIS
+Validation:          SelfHosting
+    - Description:   Serve verification files from memory
+Order:               Single
+    - Description:   Single certificate
+Csr:                 RSA
+    - Description:   RSA key
+Store:               CertificateStore
+    - Description:   Windows Certificate Store (Local Computer)
+Installation:        IIS
+    - Description:   Create or update bindings in IIS
+
+Orders         -----------------------------------------------------------------
+
+Order 1/1:           main
+  - Renewed:         1 times
+  - Last thumbprint: D214EDBEBC0F7990483C9A38041EFD9557471CAC
+  - Last date:       2024/6/12
+  - Next due:        2024/8/6
+
+History        -----------------------------------------------------------------
+
+History 1/1    -----------------------------------------------------------------
+  - Date:            2024/6/12
+  - Order:           main
+    - Success:       true
+    - Thumbprint:    D214EDBEBC0F7990483C9A38041EFD9557471CAC
+
+ Press <Enter> to continue or <Esc> to abort
+
+ Welcome to the renewal manager. Actions selected in the menu below will be
+ applied to the following list of renewals. You may filter the list to target
+ your action at a more specific set of renewals, or sort it to make it easier
+ to find what you're looking for.
+
+ 1: [IIS] APP | app.zhuanyegou.com - 2 renewals, due now
+ 2: [IIS] APP, (any host) - 1 renewal, due now
+ 3: [IIS] App更新, (any host) - 1 renewal, due now
+ 4: [IIS] UAT_IM, (any host) - 6 renewals, due now
+ 5: [IIS] uat_trains | trains.zhuanyegou.com - 1 renewal, due now
+ 6: [IIS] uat_trains, (any host) - 1 renewal, due now
+ 7: [IIS] UShop_jewelry | daogoujingling.com - 1 renewal, due now
+ 8: [IIS] UShop_jewelry | www.daogoujingling.com - 1 renewal, due now
+ 9: [IIS] UShop_Pay | pay.zhuanyegou.com - 1 renewal, due now
+ 10: [IIS] 导购精灵后台 | tool.daogoujingling.com - 1 renewal, due now
+ 11: [Manual] ssl.iis.unionalltech.com - 7 renewals, due now, 1 error
+ 12: test - 7 renewals, due now, 1 error
+ 13: test - 7 renewals, due now, 1 error
+
+ Currently selected 13 of 13 renewals
+
+ E: Edit renewal
+ F: Apply filter
+ O: Sort renewals
+ D: Show details for *all* renewals
+ L: Show command line for *all* renewals
+ R: Run *all* renewals
+ S: Run *all* renewals (force)
+ T: Run *all* renewals (force, no cache)
+ U: Analyze duplicates for *all* renewals
+ C: Cancel *all* renewals
+ V: Revoke certificate(s) for *all* renewals
+ Q: Back
+
+ Choose an action or type numbers to select renewals: q
+
+ N: Create certificate (default settings)
+ M: Create certificate (full options)
+ R: Run renewals (13 currently due)
+ A: Manage renewals (13 total, 3 in error)
+ O: More options...
+ Q: Quit
+
+ Please choose from the menu: n
+
+ Running in mode: Interactive, Simple
+
+ Please select which website(s) should be scanned for host names. You may
+ input one or more site identifiers (comma-separated) to filter by those
+ sites, or alternatively leave the input empty to scan *all* websites.
+
+ 27: APP (1 binding)
+ 29: App更新 (1 binding)
+ 1: dianqi (1 binding)
+ 7: ScriptProcessApi (1 binding)
+ 10: ssl-cert-test (1 binding)
+ 40: UAT_IM (1 binding)
+ 32: uat_trains (1 binding)
+ 21: UATTPM (1 binding)
+ 3: UShop_jewelry (12 bindings)
+ 23: UShop_Pay (3 bindings)
+ 18: WxPayAPI (1 binding)
+ 4: 导购精灵后台 (6 bindings)
+ 45: 凯恩特跳转 (2 bindings)
+ 2: 同步找金数据 (1 binding)
+ 31: 支付管理后台 (1 binding)
+
+ Site identifier(s) or <Enter> to choose all: q
+
+ Invalid site identifier 'q', should be a number
+
+ Restart? (y*/n) - no
+
+ Source plugin IIS was unable to generate options
+
+ N: Create certificate (default settings)
+ M: Create certificate (full options)
+ R: Run renewals (13 currently due)
+ A: Manage renewals (13 total, 3 in error)
+ O: More options...
+ Q: Quit
+
+ Please choose from the menu: a
+
+ Welcome to the renewal manager. Actions selected in the menu below will be
+ applied to the following list of renewals. You may filter the list to target
+ your action at a more specific set of renewals, or sort it to make it easier
+ to find what you're looking for.
+
+ 1: [IIS] APP | app.zhuanyegou.com - 2 renewals, due now
+ 2: [IIS] APP, (any host) - 1 renewal, due now
+ 3: [IIS] App更新, (any host) - 1 renewal, due now
+ 4: [IIS] UAT_IM, (any host) - 6 renewals, due now
+ 5: [IIS] uat_trains | trains.zhuanyegou.com - 1 renewal, due now
+ 6: [IIS] uat_trains, (any host) - 1 renewal, due now
+ 7: [IIS] UShop_jewelry | daogoujingling.com - 1 renewal, due now
+ 8: [IIS] UShop_jewelry | www.daogoujingling.com - 1 renewal, due now
+ 9: [IIS] UShop_Pay | pay.zhuanyegou.com - 1 renewal, due now
+ 10: [IIS] 导购精灵后台 | tool.daogoujingling.com - 1 renewal, due now
+ 11: [Manual] ssl.iis.unionalltech.com - 7 renewals, due now, 1 error
+ 12: test - 7 renewals, due now, 1 error
+ 13: test - 7 renewals, due now, 1 error
+
+ Currently selected 13 of 13 renewals
+
+ E: Edit renewal
+ F: Apply filter
+ O: Sort renewals
+ D: Show details for *all* renewals
+ L: Show command line for *all* renewals
+ R: Run *all* renewals
+ S: Run *all* renewals (force)
+ T: Run *all* renewals (force, no cache)
+ U: Analyze duplicates for *all* renewals
+ C: Cancel *all* renewals
+ V: Revoke certificate(s) for *all* renewals
+ Q: Back
+
+ Choose an action or type numbers to select renewals: q
+
+ N: Create certificate (default settings)
+ M: Create certificate (full options)
+ R: Run renewals (13 currently due)
+ A: Manage renewals (13 total, 3 in error)
+ O: More options...
+ Q: Quit
+
+ Please choose from the menu: n
+
+ Running in mode: Interactive, Simple
+
+ Please select which website(s) should be scanned for host names. You may
+ input one or more site identifiers (comma-separated) to filter by those
+ sites, or alternatively leave the input empty to scan *all* websites.
+
+ 27: APP (1 binding)
+ 29: App更新 (1 binding)
+ 1: dianqi (1 binding)
+ 7: ScriptProcessApi (1 binding)
+ 10: ssl-cert-test (1 binding)
+ 40: UAT_IM (1 binding)
+ 32: uat_trains (1 binding)
+ 21: UATTPM (1 binding)
+ 3: UShop_jewelry (12 bindings)
+ 23: UShop_Pay (3 bindings)
+ 18: WxPayAPI (1 binding)
+ 4: 导购精灵后台 (6 bindings)
+ 45: 凯恩特跳转 (2 bindings)
+ 2: 同步找金数据 (1 binding)
+ 31: 支付管理后台 (1 binding)
+
+ Site identifier(s) or <Enter> to choose all: 7
+
+ 1: spapi.zhuanyegou.com (Site 7)
+
+ Listed above are the bindings found on the selected site(s). By default all
+ of them will be included, but you may either pick specific ones by typing the
+ host names or identifiers (comma-separated) or filter them using one of the
+ options from the menu.
+
+ P: Pick bindings based on a search pattern
+ A: Pick *all* bindings
+
+ Binding identifiers(s) or menu option: a
+
+ 1: spapi.zhuanyegou.com (Site 7)
+
+ Continue with this selection? (y*/n) - yes
+
+ Source generated using plugin IIS: spapi.zhuanyegou.com
+
+ Plugin IIS generated source spapi.zhuanyegou.com with 1 identifiers
+ Plugin Single created 1 order
+ [spapi.zhuanyegou.com] Authorizing...
+ [spapi.zhuanyegou.com] Authorizing using http-01 validation (SelfHosting)
+ [spapi.zhuanyegou.com] Authorization result: valid
+ Downloading certificate [IIS] ScriptProcessApi, (any host)
+ Store with CertificateStore...
+ Installing certificate in the certificate store
+ Adding certificate [IIS] ScriptProcessApi, (any host) @ 2024/10/12 in store WebHosting
+ Installing with IIS...
+ Updating existing https binding spapi.zhuanyegou.com:443 (flags: 1)
+ Committing 1 https binding changes to IIS while updating site 7
+ Scheduled task looks healthy
+ Adding renewal for [IIS] ScriptProcessApi, (any host)
+ Next renewal due after 2024/12/6
+ Certificate [IIS] ScriptProcessApi, (any host) created
+
+ N: Create certificate (default settings)
+ M: Create certificate (full options)
+ R: Run renewals (13 currently due)
+ A: Manage renewals (14 total, 3 in error)
+ O: More options...
+ Q: Quit
+
+ Please choose from the menu:
