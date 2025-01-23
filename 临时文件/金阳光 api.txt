@@ -1,0 +1,43 @@
+1，获取登录客户的网点信息：
+地址：http://47.107.121.180:8099/api/values?action=GetAccounts
+参数：username， varchar(30)，不能为空，例如username=3120
+作用：用在登录的时候，去验证当前登录用户是否为 erp 中已经存在的客商
+
+
+2，同步客户档案
+地址：http://47.107.121.180:8099/api/values?action=SyncAccount
+参数：
+    @mdbm varchar(30),  -- 门店编码  
+    @mdmc varchar(300),  -- 门店名称  
+    @lxdh varchar(30)  -- 联系电话 		
+
+说明：当有新客户新增后调用此接口---在审核客户的时候写到eos里面
+
+3，获取某个客户的应收应付数据
+地址：http://47.107.121.180:8099/api/values?action=GetARAPData	
+参数:
+    @username VARCHAR(100),  客户账户             
+    @qsrq datetime,开始查询的日期
+    @jzrq datetime,结束查询的日期
+    @xsfs VARCHAR(60)='按单号合并'  --显示方式   
+说明：应付款、应付料明细
+
+4，获取某个客户的余额、余料	 
+地址：http://47.107.121.180:8099/api/values?action=GetCustomerBalance	
+参数：@username	，varchar(30)，不能为空，例如username=3120
+
+5，获取产品资料---不用打通，用手动导入款式
+地址：http://47.107.121.180:8099/api/values?action=GetPDM
+     
+说明：查询款式档案，自动同步到云展厅
+
+6，根据款号获取单件条码库存信息---ok
+地址：http://47.107.121.180:8099/api/values?action=GetProductBarcode
+参数：  
+    @productcode varchar(30),  -- 款号，例如：10003045
+说明:用来查询某个款式的所有库存条码信息
+
+7，加购锁定库存--志鸿调用
+地址：http://47.107.121.180:8099/api/values?action=LockStock
+参数：  
+    @barcode varchar(30),  -- 条码号

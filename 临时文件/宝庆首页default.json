@@ -1,0 +1,578 @@
+﻿{
+    "page": {
+        "title": "宝庆银楼智慧展厅",
+        "describe": "",
+        "sharepic": ""
+    },
+    "PModules": [],
+    "LModules": [
+        {
+            "id": "20233281147149",
+            "type": 9,
+            "draggable": true,
+            "sort": 0,
+            "content": {
+                "showType": 1,
+                "space": 0,
+                "margin": 10,
+                "dataset": [
+                    {
+                        "linkType": 30,
+                        "link": [
+                            {
+                                "areaMapInfo": "0,0,375,60",
+                                "linkType": 31,
+                                "link": "goKeyWordPage",
+                                "title": "",
+                                "proportionWidth": 0.5,
+                                "proportionHeight": 0.5
+                            }
+                        ],
+                        "title": "1个热区",
+                        "showtitle": "1个热区",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230328/6381560077733397037854520.png"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iIHN0eWxlPSJtYXJnaW46MCBhdXRvIj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJtZW1iZXJzX2ZsYXNoIGotc3dpcGUiIGlkPSJteVN3aXBlIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIG9uY2xpY2s9IkhvdE1hcCh0aGlzLFt7JnF1b3Q7YXJlYU1hcEluZm8mcXVvdDs6JnF1b3Q7MCwwLDM3NSw2MCZxdW90OywmcXVvdDtsaW5rVHlwZSZxdW90OzozMSwmcXVvdDtsaW5rJnF1b3Q7OiZxdW90O2dvS2V5V29yZFBhZ2UmcXVvdDssJnF1b3Q7dGl0bGUmcXVvdDs6JnF1b3Q7JnF1b3Q7LCZxdW90O3Byb3BvcnRpb25XaWR0aCZxdW90OzowLjUsJnF1b3Q7cHJvcG9ydGlvbkhlaWdodCZxdW90OzowLjV9XSkiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoMCkiIHRpdGxlPSIx5Liq54Ot5Yy6Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMyOC82MzgxNTYwMDc3NzMzMzk3MDM3ODU0NTIwLnBuZyIgd2lkdGg9IjEwMCUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19mbGFzaF90aW1lIj4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICAKICAgICAgICA8L2Rpdj4KICAgICAgICA=",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202212271047651",
+            "type": 9,
+            "draggable": true,
+            "sort": 1,
+            "content": {
+                "showType": 1,
+                "space": 0,
+                "margin": 10,
+                "dataset": [
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381578668276687695376562.jpg"
+                    },
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381578778016002836834892.jpg"
+                    },
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381578802047646542956716.jpg"
+                    },
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381578721280828355641972.jpg"
+                    },
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381578735447877625289966.jpg"
+                    },
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381578768529765529222628.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iIHN0eWxlPSJtYXJnaW46MCBhdXRvIj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJtZW1iZXJzX2ZsYXNoIGotc3dpcGUiIGlkPSJteVN3aXBlIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIG9uY2xpY2s9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiIgdGl0bGU9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMzAvNjM4MTU3ODY2ODI3NjY4NzY5NTM3NjU2Mi5qcGciIHdpZHRoPSIxMDAlIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBvbmNsaWNrPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIiIHRpdGxlPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwczovL2RkLmJhb3FpbmdvYS5jbjo5MzU0Ly9TdG9yYWdlL3RlbXBsYXRlLzIwMjMwMzMwLzYzODE1Nzg3NzgwMTYwMDI4MzY4MzQ4OTIuanBnIiB3aWR0aD0iMTAwJSIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgb25jbGljaz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiB0aXRsZT0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMzMC82MzgxNTc4ODAyMDQ3NjQ2NTQyOTU2NzE2LmpwZyIgd2lkdGg9IjEwMCUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIG9uY2xpY2s9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiIgdGl0bGU9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMzAvNjM4MTU3ODcyMTI4MDgyODM1NTY0MTk3Mi5qcGciIHdpZHRoPSIxMDAlIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBvbmNsaWNrPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIiIHRpdGxlPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJodHRwczovL2RkLmJhb3FpbmdvYS5jbjo5MzU0Ly9TdG9yYWdlL3RlbXBsYXRlLzIwMjMwMzMwLzYzODE1Nzg3MzU0NDc4Nzc2MjUyODk5NjYuanBnIiB3aWR0aD0iMTAwJSIgLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGkgb25jbGljaz0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiB0aXRsZT0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMzMC82MzgxNTc4NzY4NTI5NzY1NTI5MjIyNjI4LmpwZyIgd2lkdGg9IjEwMCUiIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19mbGFzaF90aW1lIj4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY3VyIiA+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxzcGFuICA+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxzcGFuICA+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxzcGFuICA+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxzcGFuICA+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxzcGFuICA+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICA8L3NlY3Rpb24+CiAgICAgICAgICAgIAogICAgICAgIDwvZGl2PgogICAgICAgIA==",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202336213527370",
+            "type": 8,
+            "draggable": true,
+            "sort": 2,
+            "content": {
+                "showNum": 0,
+                "padding": 5,
+                "borderRadius": 10,
+                "dataset": [
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=3D",
+                        "title": "",
+                        "showtitle": "硬金",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230329/6381569871916285266125411.jpg"
+                    },
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=古法",
+                        "title": "",
+                        "showtitle": "古法",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230329/6381570040209720033877296.jpg"
+                    },
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=IP产品",
+                        "title": "",
+                        "showtitle": "IP产品",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230329/6381570052225233038052831.jpg"
+                    },
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=5G",
+                        "title": "",
+                        "showtitle": "5G",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230329/6381569872767841612061458.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19uYXYxIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idHlwZTh1bCIgc3R5bGU9ImJhY2tncm91bmQ6I2ZmZjsiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3c0IiBzdHlsZT0icGFkZGluZzo1cHgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48YSBocmVmPSIvcGFnZXMvc2VhcmNocmVzdWx0L3NlYXJjaHJlc3VsdD95am1jPTNEIj48aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjEwcHgiIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMyOS82MzgxNTY5ODcxOTE2Mjg1MjY2MTI1NDExLmpwZyIgPjwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJtZW1iZXJzX25hdjFfbmFtZSIgaHJlZj0iL3BhZ2VzL3NlYXJjaHJlc3VsdC9zZWFyY2hyZXN1bHQ/eWptYz0zRCI+56Gs6YeRPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibGlzdzQiIHN0eWxlPSJwYWRkaW5nOjVweCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxhIGhyZWY9Ii9wYWdlcy9zZWFyY2hyZXN1bHQvc2VhcmNocmVzdWx0P3lqbWM95Y+k5rOVIj48aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjEwcHgiIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMyOS82MzgxNTcwMDQwMjA5NzIwMDMzODc3Mjk2LmpwZyIgPjwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJtZW1iZXJzX25hdjFfbmFtZSIgaHJlZj0iL3BhZ2VzL3NlYXJjaHJlc3VsdC9zZWFyY2hyZXN1bHQ/eWptYz3lj6Tms5UiPuWPpOazlTwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3c0IiBzdHlsZT0icGFkZGluZzo1cHgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48YSBocmVmPSIvcGFnZXMvc2VhcmNocmVzdWx0L3NlYXJjaHJlc3VsdD95am1jPUlQ5Lqn5ZOBIj48aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjEwcHgiIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMyOS82MzgxNTcwMDUyMjI1MjMzMDM4MDUyODMxLmpwZyIgPjwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJtZW1iZXJzX25hdjFfbmFtZSIgaHJlZj0iL3BhZ2VzL3NlYXJjaHJlc3VsdC9zZWFyY2hyZXN1bHQ/eWptYz1JUOS6p+WTgSI+SVDkuqflk4E8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN3NCIgc3R5bGU9InBhZGRpbmc6NXB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PGEgaHJlZj0iL3BhZ2VzL3NlYXJjaHJlc3VsdC9zZWFyY2hyZXN1bHQ/eWptYz01RyI+PGltZyBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMHB4IiBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMjkvNjM4MTU2OTg3Mjc2Nzg0MTYxMjA2MTQ1OC5qcGciID48L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibWVtYmVyc19uYXYxX25hbWUiIGhyZWY9Ii9wYWdlcy9zZWFyY2hyZXN1bHQvc2VhcmNocmVzdWx0P3lqbWM9NUciPjVHPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L3NlY3Rpb24+CiAgICAgICAgPC9kaXY+CiAgICAgICAg",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202336213555832",
+            "type": 8,
+            "draggable": true,
+            "sort": 3,
+            "content": {
+                "showNum": 0,
+                "padding": 6,
+                "borderRadius": 10,
+                "dataset": [
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=畅销款",
+                        "title": "",
+                        "showtitle": "畅销款",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230329/6381570046562785482053574.jpg"
+                    },
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=金条",
+                        "title": "",
+                        "showtitle": "金条",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230328/6381561937518941376158252.jpg"
+                    },
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=镶嵌",
+                        "title": "",
+                        "showtitle": "镶嵌",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230329/6381568531983573518360136.jpg"
+                    },
+                    {
+                        "linkType": 10,
+                        "link": "/pages/searchresult/searchresult?yjmc=铂金",
+                        "title": "",
+                        "showtitle": "铂金",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230328/6381561690772994004552352.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19uYXYxIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idHlwZTh1bCIgc3R5bGU9ImJhY2tncm91bmQ6I2ZmZjsiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3c0IiBzdHlsZT0icGFkZGluZzo2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48YSBocmVmPSIvcGFnZXMvc2VhcmNocmVzdWx0L3NlYXJjaHJlc3VsdD95am1jPeeVhemUgOasviI+PGltZyBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMHB4IiBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMjkvNjM4MTU3MDA0NjU2Mjc4NTQ4MjA1MzU3NC5qcGciID48L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibWVtYmVyc19uYXYxX25hbWUiIGhyZWY9Ii9wYWdlcy9zZWFyY2hyZXN1bHQvc2VhcmNocmVzdWx0P3lqbWM955WF6ZSA5qy+Ij7nlYXplIDmrL48L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJsaXN3NCIgc3R5bGU9InBhZGRpbmc6NnB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PGEgaHJlZj0iL3BhZ2VzL3NlYXJjaHJlc3VsdC9zZWFyY2hyZXN1bHQ/eWptYz3ph5HmnaEiPjxpbWcgc3R5bGU9ImJvcmRlci1yYWRpdXM6MTBweCIgc3JjPSJodHRwczovL2RkLmJhb3FpbmdvYS5jbjo5MzU0Ly9TdG9yYWdlL3RlbXBsYXRlLzIwMjMwMzI4LzYzODE1NjE5Mzc1MTg5NDEzNzYxNTgyNTIuanBnIiA+PC9hPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im1lbWJlcnNfbmF2MV9uYW1lIiBocmVmPSIvcGFnZXMvc2VhcmNocmVzdWx0L3NlYXJjaHJlc3VsdD95am1jPemHkeadoSI+6YeR5p2hPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibGlzdzQiIHN0eWxlPSJwYWRkaW5nOjZweCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxhIGhyZWY9Ii9wYWdlcy9zZWFyY2hyZXN1bHQvc2VhcmNocmVzdWx0P3lqbWM96ZW25bWMIj48aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjEwcHgiIHNyYz0iaHR0cHM6Ly9kZC5iYW9xaW5nb2EuY246OTM1NC8vU3RvcmFnZS90ZW1wbGF0ZS8yMDIzMDMyOS82MzgxNTY4NTMxOTgzNTczNTE4MzYwMTM2LmpwZyIgPjwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJtZW1iZXJzX25hdjFfbmFtZSIgaHJlZj0iL3BhZ2VzL3NlYXJjaHJlc3VsdC9zZWFyY2hyZXN1bHQ/eWptYz3plbbltYwiPumVtuW1jDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3c0IiBzdHlsZT0icGFkZGluZzo2cHgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48YSBocmVmPSIvcGFnZXMvc2VhcmNocmVzdWx0L3NlYXJjaHJlc3VsdD95am1jPemTgumHkSI+PGltZyBzdHlsZT0iYm9yZGVyLXJhZGl1czoxMHB4IiBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMjgvNjM4MTU2MTY5MDc3Mjk5NDAwNDU1MjM1Mi5qcGciID48L2E+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0ibWVtYmVyc19uYXYxX25hbWUiIGhyZWY9Ii9wYWdlcy9zZWFyY2hyZXN1bHQvc2VhcmNocmVzdWx0P3lqbWM96ZOC6YeRIj7pk4Lph5E8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA=",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202337102254315",
+            "type": 9,
+            "draggable": true,
+            "sort": 4,
+            "content": {
+                "showType": 1,
+                "space": 0,
+                "margin": 10,
+                "dataset": [
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381577674648652813858047.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iIHN0eWxlPSJtYXJnaW46MCBhdXRvIj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJtZW1iZXJzX2ZsYXNoIGotc3dpcGUiIGlkPSJteVN3aXBlIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIG9uY2xpY2s9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiIgdGl0bGU9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMzAvNjM4MTU3NzY3NDY0ODY1MjgxMzg1ODA0Ny5qcGciIHdpZHRoPSIxMDAlIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3M9Im1lbWJlcnNfZmxhc2hfdGltZSI+CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8L3NlY3Rpb24+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICAgICAg",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202337154346458",
+            "type": 4,
+            "draggable": true,
+            "sort": 5,
+            "content": {
+                "layout": 1,
+                "pic": "",
+                "showPrice": true,
+                "showIco": true,
+                "showName": 1,
+                "showTags": [
+                    {
+                        "show": false,
+                        "title": "显示克重",
+                        "field": "weight"
+                    },
+                    {
+                        "show": true,
+                        "title": "显示款号",
+                        "field": "code"
+                    },
+                    {
+                        "show": false,
+                        "title": "显示商品名称",
+                        "field": "name"
+                    },
+                    {
+                        "show": false,
+                        "title": "显示商品价格",
+                        "field": "price"
+                    },
+                    {
+                        "show": false,
+                        "title": "显示购物车",
+                        "field": "cart"
+                    }
+                ],
+                "goodslist": [
+                    {
+                        "item_id": "402161",
+                        "title": "足金999古法手镯",
+                        "WeightItems": "",
+                        "code": "GB40003070009",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 19:57:29",
+                        "link": "/ProductDetails.aspx?productId=402161",
+                        "pic": "/Storage/master/product/thumbs410/410_GB40003070009.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402217",
+                        "title": "足金999古法挂坠",
+                        "WeightItems": "",
+                        "code": "GB40005060011",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:06:43",
+                        "link": "/ProductDetails.aspx?productId=402217",
+                        "pic": "/Storage/master/product/thumbs410/410_GB40005060011.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402195",
+                        "title": "足金999古法手链",
+                        "WeightItems": "",
+                        "code": "GB40006060012",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:02:16",
+                        "link": "/ProductDetails.aspx?productId=402195",
+                        "pic": "/Storage/master/product/thumbs410/410_GB40006060012.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402176",
+                        "title": "足金999古法挂坠",
+                        "WeightItems": "",
+                        "code": "GB40005060007",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 19:58:07",
+                        "link": "/ProductDetails.aspx?productId=402176",
+                        "pic": "/Storage/master/product/thumbs410/410_GB40005060007.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402284",
+                        "title": "18K金钻石套链",
+                        "WeightItems": "",
+                        "code": "XK10107020026",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:11:36",
+                        "link": "/ProductDetails.aspx?productId=402284",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10107020026.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402322",
+                        "title": "18K金钻石套链",
+                        "WeightItems": "",
+                        "code": "XK10107030037",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:12:45",
+                        "link": "/ProductDetails.aspx?productId=402322",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10107030037.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402319",
+                        "title": "18K金钻石套链",
+                        "WeightItems": "",
+                        "code": "XK10107030036",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:12:40",
+                        "link": "/ProductDetails.aspx?productId=402319",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10107030036.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402309",
+                        "title": "18K金钻石套链",
+                        "WeightItems": "",
+                        "code": "XK10107030032",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:12:24",
+                        "link": "/ProductDetails.aspx?productId=402309",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10107030032.jpg",
+                        "is_compress": 0
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICAKICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3M9Im1lbWJlcnNfZ29vZHNwaWMiPgogICAgICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjE2MSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0I0MDAwMzA3MDAwOS5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMTYxIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjIxNyIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0I0MDAwNTA2MDAxMS5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMjE3Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjE5NSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0I0MDAwNjA2MDAxMi5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMTk1Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjE3NiIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0I0MDAwNTA2MDAwNy5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMTc2Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjI4NCIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwNzAyMDAyNi5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMjg0Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjMyMiIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwNzAzMDAzNy5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzIyIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjMxOSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwNzAzMDAzNi5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzE5Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjMwOSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwNzAzMDAzMi5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzA5Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICAKICAgICAgICA8L2Rpdj4KICAgICAgICA=",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202337103234412",
+            "type": 9,
+            "draggable": true,
+            "sort": 6,
+            "content": {
+                "showType": 1,
+                "space": "0",
+                "margin": 10,
+                "dataset": [
+                    {
+                        "linkType": 0,
+                        "link": "",
+                        "title": "",
+                        "showtitle": "",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230331/6381585227845872647976989.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iIHN0eWxlPSJtYXJnaW46MCBhdXRvIj4KICAgICAgICAgICAgCiAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJtZW1iZXJzX2ZsYXNoIGotc3dpcGUiIGlkPSJteVN3aXBlIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpIG9uY2xpY2s9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiIgdGl0bGU9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Imh0dHBzOi8vZGQuYmFvcWluZ29hLmNuOjkzNTQvL1N0b3JhZ2UvdGVtcGxhdGUvMjAyMzAzMzEvNjM4MTU4NTIyNzg0NTg3MjY0Nzk3Njk4OS5qcGciIHdpZHRoPSIxMDAlIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3M9Im1lbWJlcnNfZmxhc2hfdGltZSI+CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICA8L3NlY3Rpb24+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICAgICAgCiAgICAgICAgPC9kaXY+CiAgICAgICAg",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202337154517718",
+            "type": 4,
+            "draggable": true,
+            "sort": 7,
+            "content": {
+                "layout": 1,
+                "pic": "",
+                "showPrice": true,
+                "showIco": true,
+                "showName": 1,
+                "showTags": [
+                    {
+                        "show": false,
+                        "title": "显示克重",
+                        "field": "weight"
+                    },
+                    {
+                        "show": true,
+                        "title": "显示款号",
+                        "field": "code"
+                    },
+                    {
+                        "show": false,
+                        "title": "显示商品名称",
+                        "field": "name"
+                    },
+                    {
+                        "show": false,
+                        "title": "显示商品价格",
+                        "field": "price"
+                    },
+                    {
+                        "show": false,
+                        "title": "显示购物车",
+                        "field": "cart"
+                    }
+                ],
+                "goodslist": [
+                    {
+                        "item_id": "403056",
+                        "title": "天赐鸿福兔锁包",
+                        "WeightItems": "",
+                        "code": "GC40005110523",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:27:41",
+                        "link": "/ProductDetails.aspx?productId=403056",
+                        "pic": "/Storage/master/product/thumbs410/410_GC40005110523.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402954",
+                        "title": "天赐鸿福牛鼻手镯",
+                        "WeightItems": "",
+                        "code": "GC40003110025",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:27:02",
+                        "link": "/ProductDetails.aspx?productId=402954",
+                        "pic": "/Storage/master/product/thumbs410/410_GC40003110025.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402907",
+                        "title": "天赐鸿福空心方牌",
+                        "WeightItems": "",
+                        "code": "GC40005110452",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:26:43",
+                        "link": "/ProductDetails.aspx?productId=402907",
+                        "pic": "/Storage/master/product/thumbs410/410_GC40005110452.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "403030",
+                        "title": "天赐鸿福星耀锁包",
+                        "WeightItems": "",
+                        "code": "GC40005110497",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:27:28",
+                        "link": "/ProductDetails.aspx?productId=403030",
+                        "pic": "/Storage/master/product/thumbs410/410_GC40005110497.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402339",
+                        "title": "18K女戒",
+                        "WeightItems": "",
+                        "code": "XK10103000067",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:13:44",
+                        "link": "/ProductDetails.aspx?productId=402339",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10103000067.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402346",
+                        "title": "18K女戒",
+                        "WeightItems": "",
+                        "code": "XK10103000072",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:13:51",
+                        "link": "/ProductDetails.aspx?productId=402346",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10103000072.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402337",
+                        "title": "18K情侣戒",
+                        "WeightItems": "",
+                        "code": "XK10104000039",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:13:41",
+                        "link": "/ProductDetails.aspx?productId=402337",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10104000039.jpg",
+                        "is_compress": 0
+                    },
+                    {
+                        "item_id": "402335",
+                        "title": "18K情侣戒",
+                        "WeightItems": "",
+                        "code": "XK10104000037",
+                        "price": "0.00",
+                        "original_price": "0.00",
+                        "create_time": "2023-03-14 20:13:39",
+                        "link": "/ProductDetails.aspx?productId=402335",
+                        "pic": "/Storage/master/product/thumbs410/410_XK10104000037.jpg",
+                        "is_compress": 0
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICAKICAgICAgICAgICAgPHNlY3Rpb24gY2xhc3M9Im1lbWJlcnNfZ29vZHNwaWMiPgogICAgICAgICAgICAgICAgPHVsPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMzA1NiIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0M0MDAwNTExMDUyMy5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAzMDU2Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjk1NCIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0M0MDAwMzExMDAyNS5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyOTU0Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjkwNyIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0M0MDAwNTExMDQ1Mi5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyOTA3Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMzAzMCIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvR0M0MDAwNTExMDQ5Ny5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAzMDMwIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjMzOSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwMzAwMDA2Ny5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzM5Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjM0NiIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwMzAwMDA3Mi5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzQ2Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjMzNyIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwNDAwMDAzOS5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzM3Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWluZ29vZHMiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJiX21pbmdvb2RzX3dyYXBwZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL1Byb2R1Y3REZXRhaWxzLmFzcHg/cHJvZHVjdElkPTQwMjMzNSIgdGFyZ2V0PSJfYmxhbmsiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIvU3RvcmFnZS9tYXN0ZXIvcHJvZHVjdC9pbWFnZXMvWEsxMDEwNDAwMDAzNy5qcGciID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InJlcGxhY2UiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJidG5BZGRUb0NhcnQiIHByb2R1Y3RpZD0iNDAyMzM1Ij48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICZ5ZW47MC4wMAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJvcmlnaW5hbF9wcmljZSI+PHM+JnllbjswLjAwPC9zPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICAKICAgICAgICA8L2Rpdj4KICAgICAgICA=",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "2023320171244655",
+            "type": 2,
+            "draggable": true,
+            "sort": 8,
+            "content": {
+                "title": "",
+                "subtitle": "『副标题』",
+                "direction": "center",
+                "space": 0,
+                "style": "2"
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19zcGVjaWFsIHRpdGxlc3R5bGUyIGNlbnRlciI+CiAgICAgICAgICAgICAgICA8aDIgY2xhc3M9IiBqLXRpdGxlIj4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICAgICAgICA8IS0tPHAgY2xhc3M9Imotc3VidGl0bGUiPuOAjuWJr+agh+mimOOAjzwvcD4tLT4KICAgICAgICAgICAgICAgIDwhLS0tLT4KICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgIDwvZGl2PgogICAgICAgIA==",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202336213243199",
+            "type": 8,
+            "draggable": true,
+            "sort": 9,
+            "content": {
+                "showNum": "0",
+                "padding": 0,
+                "borderRadius": 0,
+                "dataset": [
+                    {
+                        "linkType": 13,
+                        "link": "/wapshop/CountDownProducts.aspx",
+                        "title": "限时抢购",
+                        "showtitle": "限时抢购",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230330/6381579340691994463362798.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19uYXYxIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idHlwZTh1bCIgc3R5bGU9ImJhY2tncm91bmQ6I2ZmZjsiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3cxIiBzdHlsZT0icGFkZGluZzowcHgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48YSBocmVmPSIvd2Fwc2hvcC9Db3VudERvd25Qcm9kdWN0cy5hc3B4Ij48aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjBweCIgc3JjPSJodHRwczovL2RkLmJhb3FpbmdvYS5jbjo5MzU0Ly9TdG9yYWdlL3RlbXBsYXRlLzIwMjMwMzMwLzYzODE1NzkzNDA2OTE5OTQ0NjMzNjI3OTguanBnIiA+PC9hPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im1lbWJlcnNfbmF2MV9uYW1lIiBocmVmPSIvd2Fwc2hvcC9Db3VudERvd25Qcm9kdWN0cy5hc3B4Ij7pmZDml7bmiqLotK08L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA=",
+            "dom_ctrl": null,
+            "ue": null
+        },
+        {
+            "id": "202332915126250",
+            "type": 8,
+            "draggable": true,
+            "sort": 10,
+            "content": {
+                "showNum": 0,
+                "padding": 0,
+                "borderRadius": 0,
+                "dataset": [
+                    {
+                        "linkType": 0,
+                        "link": "#",
+                        "title": "导航名称",
+                        "showtitle": "信息发布",
+                        "pic": "https://dd.baoqingoa.cn:9354//Storage/template/20230331/6381584975295336499439931.jpg"
+                    }
+                ]
+            },
+            "dom_conitem": "CiAgICAgICAgPGRpdiBjbGFzcz0ibWVtYmVyc19jb24iPgogICAgICAgICAgICA8c2VjdGlvbiBjbGFzcz0ibWVtYmVyc19uYXYxIj4KICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0idHlwZTh1bCIgc3R5bGU9ImJhY2tncm91bmQ6I2ZmZjsiPgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Imxpc3cxIiBzdHlsZT0icGFkZGluZzowcHgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48YSBocmVmPSIjIj48aW1nIHN0eWxlPSJib3JkZXItcmFkaXVzOjBweCIgc3JjPSJodHRwczovL2RkLmJhb3FpbmdvYS5jbjo5MzU0Ly9TdG9yYWdlL3RlbXBsYXRlLzIwMjMwMzMxLzYzODE1ODQ5NzUyOTUzMzY0OTk0Mzk5MzEuanBnIiA+PC9hPjwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im1lbWJlcnNfbmF2MV9uYW1lIiBocmVmPSIjIj7kv6Hmga/lj5HluIM8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgICA8L2Rpdj4KICAgICAgICA=",
+            "dom_ctrl": null,
+            "ue": null
+        }
+    ]
+}
